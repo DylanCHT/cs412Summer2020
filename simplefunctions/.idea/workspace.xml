@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6404a0ac-8979-47bf-a83f-5ff5477b82c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1cRurppKtWv6IdeQ4guFYCN5nd9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.2.0" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v14.2.0/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+  </component>
+  <component name="RunManager" selected="Node.js.passedFuncs.js">
+    <configuration name="functions1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/functions1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="functions2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/functions2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="passedFuncs.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/passedFuncs.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.passedFuncs.js" />
+        <item itemvalue="Node.js.functions1.js" />
+        <item itemvalue="Node.js.functions2.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6404a0ac-8979-47bf-a83f-5ff5477b82c1" name="Default Changelist" comment="" />
+      <created>1590503928308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590503928308</updated>
+      <workItem from="1590503929944" duration="5041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="684" y="360" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590504145744">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state x="684" y="360" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.95.1920.1057/0.23.2560.1349@0.23.2560.1349" timestamp="1590504145744" />
+    <state width="588" height="466" key="DebuggerActiveHint" timestamp="1590506765977">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="588" height="466" key="DebuggerActiveHint/-1920.95.1920.1057/0.23.2560.1349@0.23.2560.1349" timestamp="1590506765977" />
+    <state width="643" height="726" key="GridCell.Tab.0.bottom" timestamp="1590507170520">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="643" height="726" key="GridCell.Tab.0.bottom/-1920.95.1920.1057/0.23.2560.1349@0.23.2560.1349" timestamp="1590507170520" />
+    <state width="643" height="726" key="GridCell.Tab.0.center" timestamp="1590507170508">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="643" height="726" key="GridCell.Tab.0.center/-1920.95.1920.1057/0.23.2560.1349@0.23.2560.1349" timestamp="1590507170508" />
+    <state width="643" height="726" key="GridCell.Tab.0.left" timestamp="1590507170507">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="643" height="726" key="GridCell.Tab.0.left/-1920.95.1920.1057/0.23.2560.1349@0.23.2560.1349" timestamp="1590507170507" />
+    <state width="643" height="726" key="GridCell.Tab.0.right" timestamp="1590507170508">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="643" height="726" key="GridCell.Tab.0.right/-1920.95.1920.1057/0.23.2560.1349@0.23.2560.1349" timestamp="1590507170508" />
+    <state width="2397" height="474" key="GridCell.Tab.3.bottom" timestamp="1590506907108">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="2397" height="474" key="GridCell.Tab.3.bottom/-1920.95.1920.1057/0.23.2560.1349@0.23.2560.1349" timestamp="1590506907108" />
+    <state width="2397" height="474" key="GridCell.Tab.3.center" timestamp="1590506907107">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="2397" height="474" key="GridCell.Tab.3.center/-1920.95.1920.1057/0.23.2560.1349@0.23.2560.1349" timestamp="1590506907107" />
+    <state width="2397" height="474" key="GridCell.Tab.3.left" timestamp="1590506907106">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="2397" height="474" key="GridCell.Tab.3.left/-1920.95.1920.1057/0.23.2560.1349@0.23.2560.1349" timestamp="1590506907106" />
+    <state width="2397" height="474" key="GridCell.Tab.3.right" timestamp="1590506907108">
+      <screen x="0" y="23" width="2560" height="1349" />
+    </state>
+    <state width="2397" height="474" key="GridCell.Tab.3.right/-1920.95.1920.1057/0.23.2560.1349@0.23.2560.1349" timestamp="1590506907107" />
+  </component>
+</project>
